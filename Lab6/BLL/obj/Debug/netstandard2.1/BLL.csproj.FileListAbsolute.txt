@@ -1,0 +1,24 @@
+/Users/macbook/Desktop/Programming/NEWW/BLL/obj/Debug/netstandard2.1/BLL.csprojAssemblyReference.cache
+/Users/macbook/Desktop/Programming/NEWW/BLL/obj/Debug/netstandard2.1/BLL.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/Programming/NEWW/BLL/obj/Debug/netstandard2.1/BLL.AssemblyInfo.cs
+/Users/macbook/Desktop/Programming/NEWW/BLL/obj/Debug/netstandard2.1/BLL.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/Programming/NEWW/BLL/bin/Debug/netstandard2.1/BLL.deps.json
+/Users/macbook/Desktop/Programming/NEWW/BLL/bin/Debug/netstandard2.1/BLL.dll
+/Users/macbook/Desktop/Programming/NEWW/BLL/bin/Debug/netstandard2.1/BLL.pdb
+/Users/macbook/Desktop/Programming/NEWW/BLL/bin/Debug/netstandard2.1/DAL.dll
+/Users/macbook/Desktop/Programming/NEWW/BLL/bin/Debug/netstandard2.1/DAL.pdb
+/Users/macbook/Desktop/Programming/NEWW/BLL/obj/Debug/netstandard2.1/BLL.csproj.CopyComplete
+/Users/macbook/Desktop/Programming/NEWW/BLL/obj/Debug/netstandard2.1/BLL.dll
+/Users/macbook/Desktop/Programming/NEWW/BLL/obj/Debug/netstandard2.1/BLL.pdb
+/Users/macbook/Desktop/Programming/NEWW — копия/BLL/bin/Debug/netstandard2.1/BLL.deps.json
+/Users/macbook/Desktop/Programming/NEWW — копия/BLL/bin/Debug/netstandard2.1/BLL.dll
+/Users/macbook/Desktop/Programming/NEWW — копия/BLL/bin/Debug/netstandard2.1/BLL.pdb
+/Users/macbook/Desktop/Programming/NEWW — копия/BLL/bin/Debug/netstandard2.1/DAL.dll
+/Users/macbook/Desktop/Programming/NEWW — копия/BLL/bin/Debug/netstandard2.1/DAL.pdb
+/Users/macbook/Desktop/Programming/NEWW — копия/BLL/obj/Debug/netstandard2.1/BLL.csprojAssemblyReference.cache
+/Users/macbook/Desktop/Programming/NEWW — копия/BLL/obj/Debug/netstandard2.1/BLL.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/Programming/NEWW — копия/BLL/obj/Debug/netstandard2.1/BLL.AssemblyInfo.cs
+/Users/macbook/Desktop/Programming/NEWW — копия/BLL/obj/Debug/netstandard2.1/BLL.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/Programming/NEWW — копия/BLL/obj/Debug/netstandard2.1/BLL.csproj.CopyComplete
+/Users/macbook/Desktop/Programming/NEWW — копия/BLL/obj/Debug/netstandard2.1/BLL.dll
+/Users/macbook/Desktop/Programming/NEWW — копия/BLL/obj/Debug/netstandard2.1/BLL.pdb
