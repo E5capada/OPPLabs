@@ -1,0 +1,18 @@
+/Users/macbook/Desktop/Programming/NEWW/DAL/obj/Debug/netstandard2.1/DAL.csprojAssemblyReference.cache
+/Users/macbook/Desktop/Programming/NEWW/DAL/obj/Debug/netstandard2.1/DAL.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/Programming/NEWW/DAL/obj/Debug/netstandard2.1/DAL.AssemblyInfo.cs
+/Users/macbook/Desktop/Programming/NEWW/DAL/obj/Debug/netstandard2.1/DAL.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/Programming/NEWW/DAL/bin/Debug/netstandard2.1/DAL.deps.json
+/Users/macbook/Desktop/Programming/NEWW/DAL/bin/Debug/netstandard2.1/DAL.dll
+/Users/macbook/Desktop/Programming/NEWW/DAL/bin/Debug/netstandard2.1/DAL.pdb
+/Users/macbook/Desktop/Programming/NEWW/DAL/obj/Debug/netstandard2.1/DAL.dll
+/Users/macbook/Desktop/Programming/NEWW/DAL/obj/Debug/netstandard2.1/DAL.pdb
+/Users/macbook/Desktop/Programming/NEWW — копия/DAL/bin/Debug/netstandard2.1/DAL.deps.json
+/Users/macbook/Desktop/Programming/NEWW — копия/DAL/bin/Debug/netstandard2.1/DAL.dll
+/Users/macbook/Desktop/Programming/NEWW — копия/DAL/bin/Debug/netstandard2.1/DAL.pdb
+/Users/macbook/Desktop/Programming/NEWW — копия/DAL/obj/Debug/netstandard2.1/DAL.csprojAssemblyReference.cache
+/Users/macbook/Desktop/Programming/NEWW — копия/DAL/obj/Debug/netstandard2.1/DAL.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/Programming/NEWW — копия/DAL/obj/Debug/netstandard2.1/DAL.AssemblyInfo.cs
+/Users/macbook/Desktop/Programming/NEWW — копия/DAL/obj/Debug/netstandard2.1/DAL.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/Programming/NEWW — копия/DAL/obj/Debug/netstandard2.1/DAL.dll
+/Users/macbook/Desktop/Programming/NEWW — копия/DAL/obj/Debug/netstandard2.1/DAL.pdb
